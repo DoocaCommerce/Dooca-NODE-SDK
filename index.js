@@ -1,0 +1,1 @@
+module.exports = require('./lib/dooca-rest-sdk')();

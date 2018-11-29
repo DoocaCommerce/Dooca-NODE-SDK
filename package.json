@@ -1,0 +1,28 @@
+{
+	"name": "@doocacommerce/dooca-sdk",
+	"version": "1.0.0-beta.0",
+	"description": "SDK for Requests of Dooca Commerce",
+	"main": "index.js",
+	"homepage": "",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"directories": {
+		"lib": "lib"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"dooca commerce",
+		"plataforma",
+		"ecommerce",
+		"loja virutal"
+	],
+	"author": "Dooca Commerce <suporte@dooca.com.br>",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^0.18.0"
+	}
+}
