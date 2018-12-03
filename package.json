@@ -1,12 +1,12 @@
 {
 	"name": "@doocacommerce/dooca-sdk",
-	"version": "1.0.0-beta.0",
+	"version": "1.0.0-beta.8",
 	"description": "SDK for Requests of Dooca Commerce",
 	"main": "index.js",
-	"homepage": "",
+	"homepage": "https://github.com/DoocaCommerce/Dooca-NODE-SDK#readme",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/DoocaCommerce/Dooca-NODE-SDK.git"
 	},
 	"directories": {
 		"lib": "lib"
@@ -18,7 +18,7 @@
 		"dooca commerce",
 		"plataforma",
 		"ecommerce",
-		"loja virutal"
+		"loja virtual"
 	],
 	"author": "Dooca Commerce <suporte@dooca.com.br>",
 	"license": "MIT",
