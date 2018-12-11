@@ -1,6 +1,6 @@
 {
 	"name": "@doocacommerce/dooca-sdk",
-	"version": "1.0.0-beta.9",
+	"version": "1.0.0-beta.10",
 	"description": "SDK for Requests of Dooca Commerce",
 	"main": "index.js",
 	"homepage": "https://github.com/DoocaCommerce/Dooca-NODE-SDK#readme",
